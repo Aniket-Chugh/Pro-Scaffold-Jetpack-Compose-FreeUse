@@ -10,7 +10,8 @@ Welcome to the Jetpack Compose Scaffold project! This scaffold serves as a found
 - **Dark Mode Support**: Out-of-the-box support for dark mode.
 
 ## ScreenShots -- 
-https://github.com/Aniket-Chugh/Amazon-Best-deals-founder-tool-script/assets/149312276/6d04ef05-5f58-4f17-be05-804dacf8412a
+
+![Screenshot (30)](https://github.com/Aniket-Chugh/Pro-Scaffold-Jetpack-Compose-FreeUse/assets/149312276/3b41e40b-956e-4bec-a11a-57a17f551549)
 
 
 <h3 align="left">Support:</h3>
